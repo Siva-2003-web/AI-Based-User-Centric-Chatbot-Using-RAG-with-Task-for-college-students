@@ -56,6 +56,27 @@ ensure_required_keys(settings)
 UPLOAD_DIR = Path("data/uploads")
 UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
 
+# Initialize database on startup
+@app.on_event("startup")
+async def initialize_database():
+    """Initialize database if it doesn't exist"""
+    from utils.setup_database import create_database, populate_database
+    
+    db_path = Path("data/database/college.db")
+    db_path.parent.mkdir(parents=True, exist_ok=True)
+    
+    if not db_path.exists():
+        print("🔧 Database not found. Initializing...")
+        try:
+            conn = create_database(str(db_path))
+            populate_database(conn)
+            conn.close()
+            print("✅ Database initialized successfully with 30 students!")
+        except Exception as e:
+            print(f"❌ Database initialization failed: {e}")
+    else:
+        print("✅ Database already exists.")
+
 # Lazy-load retriever to avoid import-time failures if Chroma data is missing.
 _retriever: Optional[ChromaRetriever] = None
 
