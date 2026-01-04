@@ -60,6 +60,7 @@ UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
 @app.on_event("startup")
 async def initialize_database():
     """Initialize database if it doesn't exist"""
+    import traceback
     from utils.setup_database import create_database, populate_database
     
     db_path = Path("data/database/college.db")
@@ -72,10 +73,14 @@ async def initialize_database():
             populate_database(conn)
             conn.close()
             print("✅ Database initialized successfully with 30 students!")
+            print(f"✅ Database file: {db_path}")
         except Exception as e:
             print(f"❌ Database initialization failed: {e}")
+            traceback.print_exc()
     else:
         print("✅ Database already exists.")
+        print(f"✅ Database file: {db_path}")
+
 
 # Lazy-load retriever to avoid import-time failures if Chroma data is missing.
 _retriever: Optional[ChromaRetriever] = None
