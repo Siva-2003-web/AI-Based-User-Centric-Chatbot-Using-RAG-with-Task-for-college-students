@@ -1,0 +1,11 @@
+faculty_id,name,department,email,office_location,office_hours,created_at
+F001,Dr. Alice Johnson,Computer Science,alice@college.edu,Tech 305,MWF 2-4 PM,2026-01-03 06:10:32
+F002,Prof. Bob Chen,Computer Science,bob@college.edu,Tech 310,TTh 1-3 PM,2026-01-03 06:10:32
+F003,Dr. Sarah Williams,Computer Science,sarah@college.edu,Tech 315,"W 10-12 PM, F 3-5 PM",2026-01-03 06:10:32
+F004,Prof. Michael Smith,Mathematics,michael@college.edu,Sci 201,MWF 11-12 PM,2026-01-03 06:10:32
+F005,Dr. Jennifer Lee,Mathematics,jennifer@college.edu,Sci 205,By Appointment,2026-01-03 06:10:32
+F006,Prof. David Brown,Biology,david@college.edu,Sci 310,TTh 11-1 PM,2026-01-03 06:10:32
+F007,Dr. Patricia Garcia,Chemistry,patricia@college.edu,Sci 320,MWF 1-2 PM,2026-01-03 06:10:32
+F008,Prof. Rebecca Martinez,English,rebecca@college.edu,Hum 105,TTh 2-4 PM,2026-01-03 06:10:32
+F009,Dr. James Wilson,History,james@college.edu,Hum 210,MWF 3-4:30 PM,2026-01-03 06:10:32
+F010,Prof. Lisa Anderson,Psychology,lisa@college.edu,SS 150,W 1-3 PM,2026-01-03 06:10:32

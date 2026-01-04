@@ -1,0 +1,202 @@
+# College Student Handbook
+
+## 1. Academic Policies
+
+### Course Registration and Add/Drop
+- Students must register during assigned registration window. Late registration permitted for fees.
+- Add/drop period: First 10 days of classes. After this, withdrawal with permission only.
+- Withdrawal grades (W) appear on transcript but do not affect GPA.
+- Maximum course load: 18 credits per semester. Minimum: 12 credits (full-time status).
+
+### Grading System
+- A: 90-100%, A-: 87-89%, B+: 84-86%, B: 80-83%, B-: 77-79%
+- C+: 74-76%, C: 70-73%, C-: 67-69%, D: 60-66%, F: Below 60%
+- GPA calculated on 4.0 scale. S/U (Satisfactory/Unsatisfactory) option for up to 2 electives per year.
+- Grade appeals must be submitted within 7 days of grade posting.
+
+### Academic Standing
+- Good standing: GPA >= 2.0
+- Academic warning: GPA 1.5-2.0 (meeting required)
+- Academic probation: GPA < 1.5 (suspension possible)
+- Dean's List: GPA >= 3.5 (15+ credits completed)
+
+### Attendance Policy
+- Students are expected to attend all classes. Extended absence (>3 classes) requires faculty notification.
+- Excused absences: Medical, family emergency, religious observance, college-approved travel.
+- Unexcused absences may result in grade reduction or course failure at instructor discretion.
+
+## 2. Student Life and Conduct
+
+### Code of Conduct
+- All students must adhere to the College Code of Conduct.
+- Prohibited behaviors: Cheating, plagiarism, harassment, violence, substance abuse, theft, property damage.
+- Violations may result in warnings, probation, suspension, or expulsion.
+
+### Classroom Conduct
+- Disruptive behavior will result in removal from class.
+- Electronic devices (phones, laptops) permitted only if used for class purposes.
+- Respect for diversity and inclusion is mandatory.
+
+### Housing Policies (On-Campus)
+- Housing required for first-year students (exceptions: commuter, married status).
+- Housing lottery for upper-class students held in March (announcement Dec 1).
+- Move-in: First day of semester. Move-out: Within 48 hours of final exam.
+- Guests limited to 3 consecutive nights in dorm rooms.
+
+### Student Clubs and Organizations
+- 100+ clubs available covering academics, sports, arts, service, and identity.
+- Club meetings held in student center; contact Student Life for listings.
+- Funding available through Student Government (approval process required).
+
+## 3. Support Services
+
+### Academic Support
+- Writing Center: Free tutoring for papers, essays. Hours M-F 9am-5pm.
+- Math Lab: Peer tutoring for math courses. Hours TTh 10am-4pm, W 1pm-5pm.
+- Tutoring Services: One-on-one tutoring available for most subjects ($25/hr).
+
+### Health and Wellness
+- Student Health Center: Primary care, vaccinations, mental health counseling. Hours M-F 8am-5pm.
+- Counseling Services: Free mental health counseling (8 sessions per year included).
+- Emergency: Use campus emergency line (ext. 911) or nearest emergency phone.
+- Wellness programs: Yoga, fitness classes, nutrition workshops (free for students).
+
+### Accessibility Services
+- Students with disabilities: Register with Accessibility Services (ODS).
+- Accommodations available: Extended test time, note-taking, accessible housing, service animals permitted.
+- Contact: ods@college.edu or visit Accessibility Services Office (Student Center 200).
+
+### Career Services
+- Resume reviews, interview coaching, internship placement assistance.
+- Career fairs held Fall (Sept) and Spring (Feb).
+- Alumni network and job board: career.college.edu
+- One-on-one advising by appointment.
+
+## 4. Financial Information
+
+### Tuition and Fees (2025-2026)
+- Full-time students (12-18 credits): $15,000 per semester
+- Room and board: $8,000 per semester (on-campus housing)
+- Mandatory fees (technology, health center, activities): $800 per semester
+- Parking permit (optional): $150 per year
+
+### Payment Options
+- Full payment due by date specified (typically 2 weeks before semester starts).
+- Payment plans available: Monthly installments (interest-free, requires approval).
+- Refund deadline: 10 days after semester start (prorated schedule thereafter).
+
+### Financial Aid
+- FAFSA required for federal/state aid consideration.
+- Merit scholarships based on GPA and test scores (automatic consideration).
+- Need-based grants available (application required).
+- Work-study positions available on-campus (up to 10 hours/week).
+- Student loans: Stafford and Parent PLUS loans information at financial aid office.
+- Aid office: financialaid@college.edu, Student Center 210.
+
+## 5. Technology and IT Support
+
+### IT Help Desk
+- Location: Technology Building, Room 101
+- Phone: ext. 5555 (on-campus) or 555-0100 (off-campus)
+- Hours: M-F 8am-6pm, Sa 10am-2pm
+- Email support: helpdesk@college.edu
+
+### Network Access
+- Campus wifi (eduroam): Available in all buildings.
+- Wired internet: Available in dorms; request router deployment from IT.
+- VPN access: Download from IT portal for off-campus library resource access.
+
+### Software Licensing
+- Free Microsoft Office 365 for all students (cloud-based).
+- Adobe Creative Cloud access for design/art students.
+- MATLAB, SAS, and R available in computer labs.
+
+## 6. Library Services
+
+### Hours and Location
+- Main Library: M-Th 8am-midnight, F 8am-6pm, Sa 10am-8pm, Su 10am-midnight
+- Reference Desk: M-F 9am-5pm, Sa-Su 1pm-8pm
+
+### Collections
+- 500,000+ physical books; access to 50,000+ e-journals
+- Databases: JSTOR, EBSCOhost, ProQuest, subject-specific collections
+
+### Services
+- Research consultations (by appointment)
+- Interlibrary loan (3-5 days processing)
+- Printing (free: 200 pages/semester, then $0.05/page)
+- Study rooms available for group work (reserve online)
+
+## 7. Campus Facilities
+
+### Recreation Center
+- Equipment: Weight room, cardio machines, basketball, tennis, racquetball courts
+- Classes: Yoga, dance, CrossFit, swimming lessons
+- Hours: M-F 6am-11pm, Sa-Su 8am-10pm
+- Membership: Included in student fees
+
+### Dining Services
+- Main cafeteria (North Campus): M-F 7am-7pm, Sa-Su 10am-5pm
+- Student center café: M-F 8am-9pm, Sa-Su 11am-8pm
+- Meal plans: Unlimited (20 meals/week), Premium (14 meals/week), Flex (declining balance)
+
+### Bookstore
+- Location: Student Center, Ground Floor
+- Hours: M-F 9am-6pm, Sa 10am-4pm
+- Services: Textbooks, supplies, apparel, gift items
+- Online ordering: bookstore.college.edu
+
+## 8. Campus Safety and Security
+
+### Emergency Response
+- Emergency phones (blue lights): Located throughout campus
+- Emergency line: ext. 911 (on-campus) or 555-0911 (off-campus)
+- Security patrol: 24/7, available for escort services
+
+### Safety Resources
+- Personal safety workshops: Offered monthly
+- Lock-in program: Free locks for dorms
+- Bike registration program: Free locks and registration for bicycles
+
+### Campus Police
+- Non-emergency: 555-0200
+- Report crimes or suspicious activity online: security.college.edu/report
+- Lost and found: Security office, open M-F 8am-5pm
+
+## 9. Diversity and Inclusion
+
+### Mission Statement
+College is committed to fostering an inclusive community where all students thrive regardless of race, ethnicity, gender, sexual orientation, religion, ability, or socioeconomic status.
+
+### Cultural Centers
+- African American Student Center: Student Center 150
+- Latino/a Student Center: Student Center 160
+- LGBTQ+ Resource Center: Student Center 170
+- International Student Office: International House
+
+### Events and Programs
+- Multicultural Heritage Month celebrations (Feb, Mar, May, Oct)
+- Affinity group meetings and social events
+- Bias incident reporting and response: bias@college.edu
+
+## 10. Frequently Asked Questions
+
+**Q: What should I do if I need to withdraw from a course?**
+A: Contact the Registrar's Office. Withdrawals processed within the posted deadline receive a "W" grade. After the deadline, withdrawal requires academic dean approval (can impact financial aid).
+
+**Q: How do I request accommodations for a disability?**
+A: Register with Accessibility Services (ODS) with medical documentation. Contact ods@college.edu or visit Student Center 200.
+
+**Q: Can I change my major?**
+A: Yes, contact your academic advisor or the registrar. A major change form must be approved by your advisor and new department chair.
+
+**Q: What if I'm struggling academically?**
+A: Contact academic support (tutoring, writing center) or meet with your advisor. Probation students must see their advisor every 2 weeks.
+
+**Q: How do I appeal a grade?**
+A: Submit a written appeal to the faculty member within 7 days of grade posting. If unresolved, escalate to department chair, then academic dean.
+
+---
+
+*Last Updated: June 2025*
+*For updates, visit college.edu/studenthandbook or contact Student Affairs at studentaffairs@college.edu*

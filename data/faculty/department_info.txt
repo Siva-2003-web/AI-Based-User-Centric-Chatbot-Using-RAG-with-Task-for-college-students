@@ -1,0 +1,137 @@
+# Computer Science Department Information
+
+**Department Overview:**
+The Computer Science department offers undergraduate and graduate programs in computer science, with a focus on practical skills, research, and real-world applications. Faculty expertise spans AI, software engineering, databases, and systems.
+
+**Chair:** Dr. Alice Johnson (alice.johnson@college.edu, Tech Building 300)
+
+**Majors Offered:**
+- B.S. Computer Science (4-year, 120 credits)
+- B.A. Computer Science (4-year, 120 credits)
+- M.S. Computer Science (2-year, thesis optional)
+- Minor in Computer Science (18 credits)
+
+**Core Courses (B.S.):**
+- CS101: Introduction to Computer Science (3 cr)
+- CS151: Discrete Mathematics (3 cr)
+- CS201: Data Structures and Algorithms (4 cr)
+- CS215: Computer Architecture (3 cr)
+- CS241: Database Systems (3 cr)
+- CS301: Artificial Intelligence (3 cr)
+- CS321: Software Engineering (3 cr)
+- CS361: Capstone Project (3 cr)
+
+**Electives Available:**
+- CS302: Machine Learning
+- CS303: Natural Language Processing
+- CS315: Cybersecurity
+- CS331: Web Development
+- CS341: Cloud Computing
+
+**Research Opportunities:**
+- Undergraduate research fellowships available (paid positions)
+- Graduate research assistantships (tuition waiver + stipend)
+- Faculty research areas: AI, ML, NLP, robotics, HCI, systems
+
+**Career Outcomes:**
+- Avg. starting salary: $85,000
+- Top employers: Google, Microsoft, Amazon, Meta, Apple, JPMorgan
+- 95% employment rate within 6 months of graduation
+- Graduate school placement: 20-30% continue to PhD programs
+
+**Contact:**
+Department Office: Tech Building 301
+Phone: 555-0103
+Email: csinfo@college.edu
+
+---
+
+# Mathematics Department Information
+
+**Department Overview:**
+The Mathematics department provides rigorous training in pure and applied mathematics, preparing students for careers in academia, industry, finance, and data science.
+
+**Chair:** Prof. Michael Smith (michael.smith@college.edu, Science Building 200)
+
+**Majors Offered:**
+- B.S. Mathematics (4-year, 120 credits)
+- B.A. Mathematics (4-year, 120 credits)
+- B.S. Applied Mathematics (4-year, 120 credits)
+- M.S. Mathematics (2-year, thesis required)
+- Minor in Mathematics (18 credits)
+
+**Core Courses (B.S.):**
+- MATH101: Calculus I (4 cr)
+- MATH102: Calculus II (4 cr)
+- MATH103: Calculus III (4 cr)
+- MATH201: Linear Algebra (3 cr)
+- MATH215: Discrete Mathematics (3 cr)
+- MATH301: Real Analysis (3 cr)
+- MATH321: Abstract Algebra (3 cr)
+- MATH451: Capstone Seminar (3 cr)
+
+**Specialization Tracks:**
+- Pure Mathematics: Analysis, Algebra, Topology
+- Applied Mathematics: Differential Equations, Numerical Analysis, Optimization
+- Data Science: Probability, Statistics, Computing
+
+**Research Opportunities:**
+- REU (Research Experiences for Undergraduates) grants available
+- Summer research internships with faculty
+- Graduate teaching assistantships
+
+**Career Outcomes:**
+- Avg. starting salary: $60,000 (industry), $50,000 (education)
+- Top employers: Tech companies, finance, insurance, education
+- Graduate school placement: 40-50% pursue advanced degrees
+
+**Contact:**
+Department Office: Science Building 201
+Phone: 555-0204
+Email: mathinfo@college.edu
+
+---
+
+# Biology Department Information
+
+**Department Overview:**
+The Biology department emphasizes experimental biology and modern techniques, preparing students for careers in research, medicine, conservation, and biotech.
+
+**Chair:** Prof. David Brown (david.brown@college.edu, Science Building 310)
+
+**Majors Offered:**
+- B.S. Biology (4-year, 120 credits)
+- B.S. Environmental Biology (4-year, 120 credits)
+- B.S. Neurobiology (4-year, 120 credits)
+- M.S. Biology (2-year, thesis required)
+- Minor in Biology (18 credits)
+
+**Core Courses (B.S. Biology):**
+- BIO101: General Biology (4 cr, with lab)
+- BIO201: Cell Biology (4 cr, with lab)
+- BIO211: Genetics (4 cr, with lab)
+- BIO221: Ecology (4 cr, with lab)
+- BIO301: Molecular Biology (4 cr, with lab)
+- BIO311: Evolution (3 cr)
+- BIO451: Senior Capstone (3 cr)
+
+**Laboratory Facilities:**
+- Molecular biology lab with PCR, sequencing, and bioinformatics workstations
+- Microscopy lab with confocal and electron microscopes
+- Greenhouse and outdoor field study areas
+- Aquatics facility for aquatic organism studies
+
+**Research Opportunities:**
+- Undergraduate research grants ($1,000-$2,000 per project)
+- Summer internships in research labs
+- Graduate teaching and research assistantships
+
+**Career Outcomes:**
+- Avg. starting salary: $45,000 (entry), $65,000+ (advanced degree)
+- Top employers: Pharmaceutical companies, biotech startups, research institutes, healthcare
+- Medical/Dental school acceptance rate: 70%+
+
+**Contact:**
+Department Office: Science Building 315
+Phone: 555-0315
+Email: bioinfo@college.edu

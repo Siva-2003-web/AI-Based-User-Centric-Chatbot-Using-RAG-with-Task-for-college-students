@@ -1,0 +1,31 @@
+course_id,course_name,department,credits,semester,faculty_id,description,created_at
+CS101,Introduction to Computer Science,Computer Science,3,Fall 2025,F001,Fundamentals of programming,2026-01-03 06:10:32
+CS201,Data Structures,Computer Science,4,Spring 2026,F002,Advanced data structures and algorithms,2026-01-03 06:10:32
+CS301,Artificial Intelligence,Computer Science,3,Fall 2025,F003,AI techniques and applications,2026-01-03 06:10:32
+MATH101,Calculus I,Mathematics,4,Fall 2025,F004,Single variable calculus,2026-01-03 06:10:32
+MATH201,Linear Algebra,Mathematics,3,Spring 2026,F005,Matrix theory and applications,2026-01-03 06:10:32
+BIO101,General Biology,Biology,4,Fall 2025,F006,Cell biology and genetics,2026-01-03 06:10:32
+CHEM101,General Chemistry,Chemistry,4,Fall 2025,F007,Chemical bonding and reactions,2026-01-03 06:10:32
+ENG101,English Composition,English,3,Fall 2025,F008,Academic writing skills,2026-01-03 06:10:32
+HIST101,World History,History,3,Spring 2026,F009,Survey of major civilizations,2026-01-03 06:10:32
+PSY101,Intro to Psychology,Psychology,3,Fall 2025,F010,Foundations of psychology,2026-01-03 06:10:32
+CS102,Programming 101,Computer Science,3,Spring 2026,F001,Introduction to coding,2026-01-03 06:10:32
+CS202,Web Development,Computer Science,3,Spring 2026,F002,Frontend and backend development,2026-01-03 06:10:32
+MATH102,Calculus II,Mathematics,4,Spring 2026,F004,Integration and series,2026-01-03 06:10:32
+BIO102,Human Anatomy,Biology,4,Spring 2026,F006,Human body systems,2026-01-03 06:10:32
+CHEM102,Organic Chemistry,Chemistry,4,Spring 2026,F007,Organic reaction mechanisms,2026-01-03 06:10:32
+ENG102,Literature Analysis,English,3,Spring 2026,F008,Critical reading and analysis,2026-01-03 06:10:32
+HIST102,American History,History,3,Fall 2025,F009,US history from colonial to modern,2026-01-03 06:10:32
+PSY102,Developmental Psychology,Psychology,3,Spring 2026,F010,Human development across lifespan,2026-01-03 06:10:32
+CS303,Machine Learning,Computer Science,3,Fall 2025,F003,ML algorithms and applications,2026-01-03 06:10:32
+MATH203,Discrete Mathematics,Mathematics,3,Fall 2025,F005,"Logic, sets, combinatorics",2026-01-03 06:10:32
+BIO203,Ecology,Biology,3,Fall 2025,F006,Population and community ecology,2026-01-03 06:10:32
+CHEM203,Biochemistry,Chemistry,3,Spring 2026,F007,Biochemical processes,2026-01-03 06:10:32
+ENG203,World Literature,English,3,Fall 2025,F008,Non-Western literature,2026-01-03 06:10:32
+HIST203,Medieval Europe,History,3,Spring 2026,F009,Medieval political and social systems,2026-01-03 06:10:32
+PSY203,Social Psychology,Psychology,3,Fall 2025,F010,Human social behavior,2026-01-03 06:10:32
+CS401,Capstone Project,Computer Science,3,Spring 2026,F001,Senior CS project,2026-01-03 06:10:32
+MATH401,Real Analysis,Mathematics,3,Fall 2025,F004,Rigorous analysis of real numbers,2026-01-03 06:10:32
+BIO401,Molecular Biology,Biology,4,Spring 2026,F006,Molecular mechanisms of life,2026-01-03 06:10:32
+CHEM401,Physical Chemistry,Chemistry,4,Fall 2025,F007,Thermodynamics and kinetics,2026-01-03 06:10:32
+ENG401,Senior Seminar,English,3,Fall 2025,F008,Advanced literary analysis,2026-01-03 06:10:32

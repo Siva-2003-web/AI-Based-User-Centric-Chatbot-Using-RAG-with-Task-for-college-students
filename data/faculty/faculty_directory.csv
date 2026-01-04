@@ -1,0 +1,11 @@
+faculty_id,name,department,email,office_location,office_hours,phone,research_interests,degree,years_at_college
+F001,Dr. Alice Johnson,Computer Science,alice.johnson@college.edu,Tech Building 305,"MWF 2:00-4:00 PM",555-0101,"Machine Learning, Neural Networks, NLP","PhD Stanford",5
+F002,Prof. Bob Chen,Computer Science,bob.chen@college.edu,Tech Building 310,"TTh 1:00-3:00 PM, By Appointment",555-0102,"Data Structures, Algorithm Design, Competitive Programming","MS MIT",8
+F003,Dr. Sarah Williams,Computer Science,sarah.williams@college.edu,Tech Building 315,"W 10:00-12:00 PM, F 3:00-5:00 PM",555-0103,"Artificial Intelligence, Robotics, Human-Computer Interaction","PhD CMU",3
+F004,Prof. Michael Smith,Mathematics,michael.smith@college.edu,Science Building 201,"MWF 11:00-12:00 PM, TTh 2:00-3:00 PM",555-0201,"Calculus, Real Analysis, Applied Mathematics","PhD Yale",12
+F005,Dr. Jennifer Lee,Mathematics,jennifer.lee@college.edu,Science Building 205,"By Appointment",555-0202,"Linear Algebra, Abstract Algebra, Topology","PhD Berkeley",6
+F006,Prof. David Brown,Biology,david.brown@college.edu,Science Building 310,"TTh 11:00-1:00 PM",555-0301,"Genetics, Evolution, Cell Biology, Conservation","PhD Stanford",10
+F007,Dr. Patricia Garcia,Chemistry,patricia.garcia@college.edu,Science Building 320,"MWF 1:00-2:00 PM, W 3:00-4:00 PM",555-0302,"Organic Chemistry, Materials Science, Green Chemistry","PhD Harvard",4
+F008,Prof. Rebecca Martinez,English,rebecca.martinez@college.edu,Humanities Building 105,"TTh 2:00-4:00 PM, By Appointment",555-0401,"American Literature, Creative Writing, Rhetoric","MFA Iowa Writers Workshop",7
+F009,Dr. James Wilson,History,james.wilson@college.edu,Humanities Building 210,"MWF 3:00-4:30 PM",555-0402,"Medieval History, European Political History, Historiography","PhD Oxford",9
+F010,Prof. Lisa Anderson,Psychology,lisa.anderson@college.edu,Social Sciences Building 150,"W 1:00-3:00 PM, By Appointment",555-0501,"Social Psychology, Cognitive Development, Mental Health Stigma","PhD UCLA",5
