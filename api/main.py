@@ -460,18 +460,22 @@ def health_check(request: Request):
 @limiter.limit("10/minute")
 def login(request: Request, payload: LoginRequest):
     """Authenticate student and return JWT token with profile."""
+    print(f"🔐 Login attempt: {payload.student_id}")
     student = authenticate_student(payload.student_id, payload.password)
     
     if not student:
+        print(f"❌ Authentication failed for: {payload.student_id}")
         return LoginResponse(
             success=False,
             message="Invalid student_id or password"
         )
     
+    print(f"✅ Student authenticated: {student['name']}")
     # Get full profile with courses and attendance
     profile = get_student_profile(payload.student_id)
     
     if not profile.get("found"):
+        print(f"❌ Profile not found for: {payload.student_id}")
         return LoginResponse(
             success=False,
             message="Could not fetch student profile"
@@ -483,6 +487,8 @@ def login(request: Request, payload: LoginRequest):
         extra_data={"name": student["name"], "department": student["department"]}
     )
     
+    print(f"✅ Login successful: {student['name']}")
+
     return LoginResponse(
         success=True,
         token=token,
