@@ -1,4 +1,5 @@
 import { useState, useRef, useEffect } from "react";
+import { API_BASE_URL } from "../services/api";
 
 export default function ChatInterface({ token }) {
   const [messages, setMessages] = useState([]);
@@ -61,7 +62,7 @@ export default function ChatInterface({ token }) {
 
     try {
       const response = await fetch(
-        "http://127.0.0.1:8000/api/student/attendance",
+        `${API_BASE_URL}/student/attendance`,
         {
           method: "GET",
           headers: {
@@ -156,7 +157,7 @@ export default function ChatInterface({ token }) {
     setLoading(true);
 
     try {
-      const response = await fetch("http://127.0.0.1:8000/api/chat", {
+      const response = await fetch(`${API_BASE_URL}/chat`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
