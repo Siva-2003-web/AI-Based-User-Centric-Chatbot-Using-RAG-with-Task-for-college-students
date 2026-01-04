@@ -7,7 +7,7 @@ An intelligent, AI-powered college assistant chatbot that helps students with ac
 ![React](https://img.shields.io/badge/React-18+-61dafb)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688)
 
----
+--- Projecct Deploy Link : https://ai-based-user-centric-chatbot-using-rag.onrender.com
 
 ## 📋 Table of Contents
 
